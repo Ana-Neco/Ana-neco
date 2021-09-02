@@ -11,16 +11,12 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/7c84ff7664ab0b0b9d8d0ca536a632cc.gif" align="right" width="100" height="100" border="0" alt="https://picasion.com/" /></a>
-</div>
-  
-  ##
  
+   ##
+ 
+  
 <div> 
  
   <a href = "mailto:Anab.neco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ </div>
  
- 
-  ![Snake animation](https://github.com/Ana-Neco/Ana-neco/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
