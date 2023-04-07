@@ -17,6 +17,7 @@ class Beatriz {
 ```
 
 <hr>
+
 ### Statistics
 
 <div align="center">  
