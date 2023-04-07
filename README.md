@@ -1,9 +1,17 @@
-### Olá Mundo, eu sou a Ana Beatriz👋 
+<p align="center">
+  <img src="https://github.com/Ana-neco/Ana-neco/raw/main/assets/anab-gif.gif" alt="Hi, I'm Ana Beatriz👋">
+</p>
 
- <div>
-  <a href="https://github.com/Ana-neco">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ana-neco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<!--
+How to make this gif ?
+thanks to [matyo91]
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
