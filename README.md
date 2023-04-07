@@ -1,30 +1,31 @@
 <img width=100% src="img/wave1.svg"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9e58cd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ana+Beariz;I'm+21+years+old;ADS+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=37&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ana+Beatriz;I'm+21+years+old;ADS+student;Be+Welcome+my+profile!+:%29)](https://git.io/typing-svg)
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-</div> 
- 
+### Studying in this moment:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=0D1117)&nbsp; 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=blue&labelColor=0D1117)&nbsp; 
+![Csharp](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=806491&labelColor=0D1117)&nbsp; 
 
   
   ##
  
-<div> 
+
+<div align="center">
+  <h2> My social medias </h2>
   <a href = "mailto:Anab.neco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
  <a href = "https://www.linkedin.com/in/ana-beatriz-prado-neco-2b2014184/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
+ <a href = "https://www.linkedin.com/in/ana-beatriz-prado-neco-2b2014184/"><img src="https://img.shields.io/badge/-spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank"></a>
 </div>
 
-
-<a href="#">
-  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
+<p align="center">
+  <a href="https://github.com/Ana-Neco">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a>
+<a href="https://github.com/trinib?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 
 <img src="img/wave2.svg" width="100%">
