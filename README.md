@@ -8,6 +8,7 @@ class Beatriz {
   education = "Ads student from FATEC - Presidente Prudente";
   hobbies = ["listen music","play games","read","watch animes"];
   favorite_singer = "Ariana Grande";
+  studying_language = ["english"];
   
   function NãoEsquecer(){
     return "Não importa o quão devagar você vá, desde que não pare - Confúcio";
