@@ -1,16 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Ana-neco/Ana-neco/raw/main/assets/anab-gif.gif" alt="Hi, I'm Ana Beatriz👋">
-</p>
-
-<!--
-How to make this gif ?
-thanks to [matyo91]
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
-
+<img width=100% src="img/teste.svg"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,5 +18,5 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
  <a href = "https://www.linkedin.com/in/ana-beatriz-prado-neco-2b2014184/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
 </div>
 
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
