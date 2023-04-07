@@ -16,7 +16,7 @@ class Beatriz {
 }
 ```
 
-
+<hr>
 ### Statistics
 
 <div align="center">  
@@ -30,6 +30,7 @@ class Beatriz {
  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ana-Neco&theme=highcontrast&hide_border=false&background=highcontrast&ring=highcontrast&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
+<hr>
 
 ### Studying in this moment:
 ![HTML](https://img.shields.io/badge/-HTML-%23333?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=%23333&align=center)&nbsp; 
@@ -44,6 +45,10 @@ class Beatriz {
   <a href = "mailto:Anab.neco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
  <a href = "https://www.linkedin.com/in/ana-beatriz-prado-neco-2b2014184/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
 </div>
+
+<hr>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Ana-Neco">
