@@ -21,9 +21,12 @@ class Beatriz {
 ### Statistics
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ana-Neco&show_icons=true&count_private=true&hide_border=false&title_color=EC9704&icon_color=EC9704&text_color=ffffff&bg_color=000000" alt="Ana Beatriz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Neco&layout=compact&hide_border=false&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+ 
+[![Ana Beatriz GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ana-Neco&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ana-Neco/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Neco&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ana-Neco/github-readme-stats)
+  
 </div>
+
 
 
 ### Contributions
